@@ -26,4 +26,10 @@
 *.exe
 *.out
 *.app
-build/
+TestImageDisplay
+
+# CMake build files
+cmake_install.cmake
+Makefile
+CMakeCache.txt
+CMakeFiles
